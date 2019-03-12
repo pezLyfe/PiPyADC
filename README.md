@@ -1,3 +1,6 @@
+Original source here: https://github.com/ul-gh/PiPyADC 
+These files were created by github user ul-gh
+
 # PiPyADC
 Python module for interfacing Texas Instruments SPI bus based analog-
 to-digital converters with the Raspberry Pi.
